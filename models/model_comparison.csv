@@ -1,0 +1,6 @@
+Model,R2,RMSE (Mbps),MAE (Mbps),Train time (s)
+Neural Network (MLP),0.8579,120.76,46.58,2.92
+Random Forest,0.853,122.82,46.84,1.25
+SVM (SVR),0.7606,156.75,57.12,0.66
+Decision Tree,0.7517,159.63,60.37,0.06
+Linear Regression,0.377,252.87,147.91,0.01

@@ -1,0 +1,19 @@
+# ──────────────────────────────────────────────
+# Wireless Channel Capacity Predictor
+# Python >= 3.10 recommended
+# ──────────────────────────────────────────────
+
+# Web dashboard
+streamlit>=1.35.0
+
+# Numerics & data
+numpy>=1.26.0
+pandas>=2.2.0
+
+# ML
+scikit-learn>=1.4.0
+joblib>=1.4.0
+
+# Visualisation
+plotly>=5.22.0
+matplotlib>=3.9.0      # used by train_models.py only
